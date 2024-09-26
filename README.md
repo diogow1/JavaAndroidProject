@@ -4,6 +4,7 @@ APP simples com funções básicas que são criar, editar e apagar tarefas. É b
 
 ## 🔨 Ferramentas utilizadas
 
-* Java
-* Android Studio
+* [Java](https://www.java.com/)
+* [Android Studio](https://developer.android.com/studio)
+* [SQLite](https://www.sqlite.org/)
 * ~Muita sanidade mental~
