@@ -1,3 +1,9 @@
-Hello.
+# 📚 APP de gestão de tarefas para Android
 
-if you want to download the debug apk for testing, access this link: <a href="https://drive.google.com/file/d/1WAY8Mfup6ZKrSk2jTM-bprNzdD3A7kXm/view?usp=sharing">drive</a> 
+APP simples com funções básicas que são criar, editar e apagar tarefas. É baseado em outro projeto que usei como base para aprender mais em como desenvolver no Android Studio.
+
+## 🔨 Ferramentas utilizadas
+
+* Java
+* Android Studio
+* ~Muita sanidade mental~
